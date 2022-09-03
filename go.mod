@@ -10,7 +10,7 @@ require (
 	github.com/shibukawa/configdir v0.0.0-20170330084843-e180dbdc8da0
 	github.com/shirou/gopsutil v3.20.12+incompatible
 	github.com/stretchr/testify v1.7.2
-	github.com/xxxserxxx/gotop/v4 v4.1.4
+	github.com/xxxserxxx/gotop/v4 v4.1.2
 	github.com/xxxserxxx/lingo/v2 v2.0.1
 	github.com/xxxserxxx/opflag v1.0.5
 )
